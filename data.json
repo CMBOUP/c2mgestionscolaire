@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785206905407,
+  "updatedAt": 1785278293778,
   "users": [
     {
       "id": "USR_creator_master",
@@ -45,7 +45,17 @@
   "cash": [],
   "teachers": [],
   "homework": [],
-  "messages": [],
+  "messages": [
+    {
+      "id": "MSG_ms58lnnw3rs8l",
+      "title": "bonsoir",
+      "content": "Bienvenue à c2m gestion scolaire. Et je vous souhaite une meilleure utilisation.",
+      "priority": "urgent",
+      "from": "Cora Mboup (Créateur Maître)",
+      "school": "C2M Holding & Logiciels",
+      "createdAt": "29/07/2026"
+    }
+  ],
   "auditLogs": [
     {
       "date": "27/07/2026 21:47:01",
@@ -68,6 +78,12 @@
     },
     {
       "date": "28/07/2026 22:32:12",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "29/07/2026 00:37:05",
       "author": "Cora Mboup (Créateur Maître)",
       "action": "Connexion",
       "details": "Connexion réussie (createur)"
