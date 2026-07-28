@@ -1,0 +1,214 @@
+{
+  "updatedAt": 1785181907068,
+  "users": [
+    {
+      "name": "Cora Mboup (Créateur Maître)",
+      "email": "coramboup72@gmail.com",
+      "role": "createur",
+      "school": "C2M Holding & Logiciels",
+      "codeHash": "bd1ed0b97d5c875020764882c48d13992c701ab980a1a86d3fcc9e2411d6792d",
+      "status": "actif",
+      "subscriptionStatus": "Payant",
+      "createdAt": "27/07/2026",
+      "expirationDate": "2099-12-31",
+      "id": "USR_ms3n7r7g2wxhj"
+    },
+    {
+      "name": "Mr. Sane (Directeur C2M Parcelles)",
+      "email": "directeur@c2m.sn",
+      "role": "directeur",
+      "school": "École C2M Parcelles Assainies Unité 7",
+      "codeHash": "86eeca78b6837646300e24fe57a7c6e0ad76f31e3fbe203d9d7c52078a9f63f0",
+      "status": "actif",
+      "subscriptionStatus": "Gratuit",
+      "createdAt": "27/07/2026",
+      "expirationDate": "2027-07-27",
+      "id": "USR_ms3n7r7gba54m"
+    },
+    {
+      "name": "Mme Diallo (Enseignante)",
+      "email": "diallo@c2m.sn",
+      "role": "enseignant",
+      "school": "École C2M Parcelles Assainies Unité 7",
+      "codeHash": "9a4e3a76c99899efb0f1fe3157f067a0f87c41b76933e348de939678003b8eac",
+      "status": "actif",
+      "createdAt": "27/07/2026",
+      "id": "USR_ms3n7r7ghctjn"
+    },
+    {
+      "name": "Mr. Ba (Parent)",
+      "email": "ba@c2m.sn",
+      "role": "parent",
+      "school": "École C2M Parcelles Assainies Unité 7",
+      "codeHash": "dd11c9ef4799fa6c7b5e3f371ba84579f65a316250d498a4217570fe072f7545",
+      "status": "actif",
+      "createdAt": "27/07/2026",
+      "id": "USR_ms3n7r7gf0ekf"
+    },
+    {
+      "name": "Djamal (Élève)",
+      "email": "djamal@c2m.sn",
+      "role": "eleve",
+      "school": "École C2M Parcelles Assainies Unité 7",
+      "codeHash": "2983e0f9e246e772dec4a3d17ee1e334f6fda19289cd96cb54bb6a474873376f",
+      "status": "actif",
+      "createdAt": "27/07/2026",
+      "id": "USR_ms3n7r7glox38"
+    }
+  ],
+  "students": [
+    {
+      "id": "STU1001",
+      "name": "Djamal Mboup",
+      "class": "CM2",
+      "matricule": "MAT88421",
+      "dob": "2015-05-12",
+      "parent": "Mr. Ba & Aissatou Diop",
+      "phone": "+221 77 000 00 00",
+      "email": "djamal@c2m.sn",
+      "school": "École C2M Parcelles Assainies Unité 7",
+      "createdAt": "27/07/2026"
+    }
+  ],
+  "schedules": [],
+  "absences": [],
+  "cash": [],
+  "teachers": [],
+  "homework": [],
+  "messages": [],
+  "auditLogs": [
+    {
+      "date": "27/07/2026 19:07:02",
+      "author": "Système",
+      "action": "Initialisation",
+      "details": "Création des données de base et comptes initiaux."
+    },
+    {
+      "date": "27/07/2026 19:09:26",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 19:10:57",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)"
+    },
+    {
+      "date": "27/07/2026 19:14:25",
+      "author": "Djamal (Élève)",
+      "action": "Connexion",
+      "details": "Connexion réussie (eleve)"
+    },
+    {
+      "date": "27/07/2026 21:53:54",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 22:04:32",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 22:34:55",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 22:40:32",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 22:58:18",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 23:09:43",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 23:10:22",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 23:11:01",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)"
+    },
+    {
+      "date": "27/07/2026 23:39:56",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "27/07/2026 23:40:49",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "28/07/2026 04:26:28",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)",
+      "school": "C2M Holding & Logiciels"
+    },
+    {
+      "date": "28/07/2026 04:30:58",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    },
+    {
+      "date": "28/07/2026 04:35:49",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    },
+    {
+      "date": "28/07/2026 04:42:19",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    },
+    {
+      "date": "28/07/2026 04:44:07",
+      "author": "Mme Diallo (Enseignante)",
+      "action": "Connexion",
+      "details": "Connexion réussie (enseignant)",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    },
+    {
+      "date": "28/07/2026 04:53:51",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)",
+      "school": "C2M Holding & Logiciels"
+    },
+    {
+      "date": "28/07/2026 05:04:21",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    }
+  ]
+}
