@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785284827030,
+  "updatedAt": 1785285932414,
   "users": [
     {
       "id": "USR_creator_master",
@@ -24,6 +24,19 @@
       "subscriptionStatus": "Gratuit",
       "createdAt": "27/07/2026",
       "expirationDate": "2027-07-27"
+    },
+    {
+      "id": "USR_ms5d5dodf02jm",
+      "name": "Tahirou Fall",
+      "email": "tahiroufall70@gmail.com",
+      "role": "directeur",
+      "school": "Ecole Santhiaba IEF Dagana",
+      "phone": "+221771049510",
+      "codeHash": "64f8f264755b197f83330bef58f3694e7cb59d66930e4c7786d3db0a2a93286c",
+      "status": "actif",
+      "subscriptionStatus": "Gratuit",
+      "createdAt": "29/07/2026",
+      "expirationDate": "2027-07-29"
     }
   ],
   "students": [
@@ -192,6 +205,24 @@
       "author": "Mr. Sane (Directeur C2M Parcelles)",
       "action": "Ajout élève",
       "details": "Ajout de l'élève Mohamed Mboup"
+    },
+    {
+      "date": "29/07/2026 02:27:44",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)"
+    },
+    {
+      "date": "29/07/2026 02:32:05",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Connexion",
+      "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "29/07/2026 02:45:32",
+      "author": "Cora Mboup (Créateur Maître)",
+      "action": "Création admin",
+      "details": "Création du compte directeur tahiroufall70@gmail.com (Ecole Santhiaba IEF Dagana)"
     }
   ]
 }
