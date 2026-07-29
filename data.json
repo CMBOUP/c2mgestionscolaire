@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785284647094,
+  "updatedAt": 1785284699451,
   "users": [
     {
       "id": "USR_creator_master",
@@ -89,7 +89,19 @@
       "school": "École C2M Parcelles Assainies Unité 7"
     }
   ],
-  "cash": [],
+  "cash": [
+    {
+      "id": "CSH_ms5ceybf70x24",
+      "type": "entree",
+      "amount": 40000,
+      "description": "Frais d'inscription",
+      "studentId": "STU_ms5c95guiviy2",
+      "studentLabel": "Mohamed Mboup (CP)",
+      "date": "29/07/2026",
+      "recordedBy": "Mr. Sane (Directeur C2M Parcelles)",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    }
+  ],
   "teachers": [],
   "homework": [],
   "messages": [
