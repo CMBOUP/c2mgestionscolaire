@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785284523905,
+  "updatedAt": 1785284549972,
   "users": [
     {
       "id": "USR_creator_master",
@@ -63,6 +63,17 @@
       "subject": "Français",
       "teacher": "",
       "room": "Salle 1",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    },
+    {
+      "id": "SCH_ms5cbqz8v6m4s",
+      "class": "CP",
+      "day": "Lundi",
+      "start": "09:22",
+      "end": "",
+      "subject": "",
+      "teacher": "",
+      "room": "",
       "school": "École C2M Parcelles Assainies Unité 7"
     }
   ],
