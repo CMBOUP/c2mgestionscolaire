@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785278293778,
+  "updatedAt": 1785284428785,
   "users": [
     {
       "id": "USR_creator_master",
@@ -38,6 +38,19 @@
       "email": "djamal@c2m.sn",
       "school": "École C2M Parcelles Assainies Unité 7",
       "createdAt": "27/07/2026"
+    },
+    {
+      "id": "STU_ms5c95guiviy2",
+      "name": "Mohamed Mboup",
+      "class": "CP",
+      "matricule": "MAT68426",
+      "dob": "2017-10-11",
+      "parent": "Assy Diop",
+      "phone": "776837889",
+      "email": "coramboup72@gmail.com",
+      "address": "Parcelles Assainies unité 7",
+      "school": "École C2M Parcelles Assainies Unité 7",
+      "createdAt": "29/07/2026"
     }
   ],
   "schedules": [],
@@ -87,6 +100,30 @@
       "author": "Cora Mboup (Créateur Maître)",
       "action": "Connexion",
       "details": "Connexion réussie (createur)"
+    },
+    {
+      "date": "29/07/2026 00:43:53",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)"
+    },
+    {
+      "date": "29/07/2026 01:20:28",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)"
+    },
+    {
+      "date": "29/07/2026 02:16:27",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)"
+    },
+    {
+      "date": "29/07/2026 02:20:28",
+      "author": "Mr. Sane (Directeur C2M Parcelles)",
+      "action": "Ajout élève",
+      "details": "Ajout de l'élève Mohamed Mboup"
     }
   ]
 }
