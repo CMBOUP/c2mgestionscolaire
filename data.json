@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785285932414,
+  "updatedAt": 1785286218197,
   "users": [
     {
       "id": "USR_creator_master",
@@ -223,6 +223,18 @@
       "author": "Cora Mboup (Créateur Maître)",
       "action": "Création admin",
       "details": "Création du compte directeur tahiroufall70@gmail.com (Ecole Santhiaba IEF Dagana)"
+    },
+    {
+      "date": "29/07/2026 02:48:06",
+      "author": "Tahirou Fall",
+      "action": "Connexion",
+      "details": "Connexion réussie (directeur)"
+    },
+    {
+      "date": "29/07/2026 02:50:18",
+      "author": "Tahirou Fall",
+      "action": "Modification utilisateur",
+      "details": "Modification du compte tahiroufall70@gmail.com"
     }
   ]
 }
