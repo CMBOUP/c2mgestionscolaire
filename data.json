@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785284699451,
+  "updatedAt": 1785284777848,
   "users": [
     {
       "id": "USR_creator_master",
@@ -102,7 +102,18 @@
       "school": "École C2M Parcelles Assainies Unité 7"
     }
   ],
-  "teachers": [],
+  "teachers": [
+    {
+      "id": "TCH_ms5cgmt2e76en",
+      "name": "Cora Mboup",
+      "specialty": "Anglais",
+      "classes": "CP",
+      "phone": "777462219",
+      "email": "coramboup72@gmail.com",
+      "status": "vacataire",
+      "school": "École C2M Parcelles Assainies Unité 7"
+    }
+  ],
   "homework": [],
   "messages": [
     {
