@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785284777848,
+  "updatedAt": 1785284827030,
   "users": [
     {
       "id": "USR_creator_master",
@@ -114,7 +114,18 @@
       "school": "École C2M Parcelles Assainies Unité 7"
     }
   ],
-  "homework": [],
+  "homework": [
+    {
+      "id": "HW_ms5chor98wuip",
+      "class": "CP",
+      "subject": "Anglais",
+      "teacher": "Cora Mboup",
+      "description": "Salut les élèves,\nFaites le devoir",
+      "deadline": "2026-07-29",
+      "school": "École C2M Parcelles Assainies Unité 7",
+      "createdAt": "29/07/2026"
+    }
+  ],
   "messages": [
     {
       "id": "MSG_ms58lnnw3rs8l",
